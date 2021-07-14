@@ -33,7 +33,7 @@ export const Highlight = ({children, color}) => (
     <td>
       <ul>
         <h2><Highlight color="#fb0f32">Rythm</Highlight> (<code>Rythm#3722</code>)</h2>
-        <li>Prefix: <code>!</code></li>
+        <li>Prefix: <code>🎼</code></li>
         <li><b>Rythm</b> is our main bot used by the most servers. This bot and most of its features are available to the public <b>for free</b>.</li>
       </ul>
     </td>
